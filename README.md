@@ -1,6 +1,10 @@
 # import-generator
 Quick import generator for all the file in a simple line! 
 
+
+![Uygulama Ekran Görüntüsü](https://github.com/furkanuzundev/import-generator/blob/main/video.webp)
+
+
 ## Usage
 
  - First of all, if you don't have `glob` on your project, please install it.
